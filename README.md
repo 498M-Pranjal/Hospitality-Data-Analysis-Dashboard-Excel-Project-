@@ -91,6 +91,6 @@ README.md
 
 <img width="1385" height="623" alt="Screenshot 2026-02-26 141212" src="https://github.com/user-attachments/assets/4a94f828-603f-4cfa-841a-f3f10a84912b" />
 
----
+
 
 ## ⭐ If you found this project useful, feel free to star the repository!
